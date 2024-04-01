@@ -73,7 +73,7 @@ def main():
         page_icon=":chart_with_upwards_trend:",
     )
 
-    st.image("logo_dark.png", width=350)
+    st.image("logo.png", width=350)
     # Title with styling
     st.title(":bar_chart: Interactive Data Dashboard")
 
